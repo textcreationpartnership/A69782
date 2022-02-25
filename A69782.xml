@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Colonel Huson's (or the cobler's) confession in a fit of despair, taken in short-hand by the pen of a ready-writer.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69782</idno>
+            <idno type="STC">Wing C5409</idno>
+            <idno type="STC">ESTC R27170</idno>
+            <idno type="EEBO-CITATION">09681870</idno>
+            <idno type="OCLC">ocm 09681870</idno>
+            <idno type="VID">43985</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69782)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43985)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1333:7 or 1630:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Colonel Huson's (or the cobler's) confession in a fit of despair, taken in short-hand by the pen of a ready-writer.</title>
+                  <author>Hewson, John, d. 1662.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Printed according to order."</note>
+                  <note>Attributed to John Hewson by Wing, but given title main entry by NUC pre-1956 imprints.</note>
+                  <note>Item at reel position 1333:7 identified as Wing H1644 (number cancelled).</note>
+                  <note>Reproduction of originals in the Harvard University Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hewson, John, d. 1662.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43985:1" rendition="simple:additions"/>
+            <p>COLONEL HUSON'S (Or the COBLER'S) CONFESSION, In a Fit of DESPAIR.</p>
+            <p>Taken in Short-hand by the Pen of a Ready-Writer.</p>
+            <p>
+               <q>
+                  <hi>Ne Sutor ultra Crepidam.</hi>
+               </q>
+               <q>The Devil would be Gods Ape.</q>
+            </p>
+            <p>Printed according to Order.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:43985:2"/>
+            <pb n="3" facs="tcp:43985:2"/>
+            <head>
+               <hi>Huſon</hi>'s Confeſſion.</head>
+            <stage>Enter <hi>Huſon</hi> in a melancholly poſture with an Halter about his neck.</stage>
+            <sp>
+               <speaker>Huſon.</speaker>
+               <p>DId the wheel of Fortune ever move ſo ſwiftly as now? Was I not but t'other day above the Parliament, the Lawes, the Ci<g ref="char:EOLhyphen"/>ty, and the Good old Cauſe? Nay, did I not lay aſide all other Conſiderations to imagine to my ſelf greater aſcents to dominion, ſince For<g ref="char:EOLhyphen"/>tune denied me nothing I could propoſe to my ſelf? Have all my Familiars forſaken me,<note place="margin">Ties the rope.</note> who was ſo lately their deareſt Favourite? Is there no way left to evade diſgrace and ruine, but to precipitate all my Honors from this beam,<note place="margin">Points to the beam.</note> and ter<g ref="char:EOLhyphen"/>minate my vaſt attempts in the narrow compaſſe of a nooſe? Had not I better have ſticht my ambi<g ref="char:EOLhyphen"/>tion to my in-ſole &amp; tackt them cloſe to the Laſt, than thus at length to become my own hangman, when the world is not ſo courteous as to afford me any other (ſince none ſo vile) Executioner? Since the caſe is no otherwiſe, nor will be mend<g ref="char:EOLhyphen"/>ed without my end, I will make uſe of ſuch a one, as (if exerciſed ſooner) might have pre<g ref="char:EOLhyphen"/>vented much miſchief this Kingdome hath re<g ref="char:EOLhyphen"/>ceived
+<pb n="4" facs="tcp:43985:3"/> by my bloudy ambition, and have made the World rather pity than (as now it will) de<g ref="char:EOLhyphen"/>ride my miſery.</p>
+            </sp>
+            <stage>Enter <hi>Pluto</hi> in grave Attire.</stage>
+            <sp>
+               <speaker>Pluto.</speaker>
+               <p>
+                  <hi>Is not this the voice of my moſt devoted Servant?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Huſon.</speaker>
+               <p>Your dejected, deſerted, deſpairing Caſt-away.</p>
+            </sp>
+            <sp>
+               <speaker>Pluto.</speaker>
+               <p>
+                  <hi>How! Caſt-away? is my ſervice grown ſo contemptible, as to bring my moſt intimate Fa<g ref="char:EOLhyphen"/>vorites into this condition?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Huſon.</speaker>
+               <p>I aſcribe not my miſery to any other cauſe than my own folly &amp; miſcarriage, whereby I have ſo diſappointed the deſigns of my good Lord, that I am not worthy to be named in your preſence.</p>
+            </sp>
+            <sp>
+               <speaker>Pluto.</speaker>
+               <p>
+                  <hi>Away, away with this whining humor of melancholly, doſt think to do me ſervice and tby ſelf honour by this puling kind of deſpair, upon every diſcouragement; I am very ſenſible of thy miſcarriages not without the higheſt aggravati<g ref="char:EOLhyphen"/>ons, I have all along been no leſſe than a father unto thee, have fitted thee for my ſervice, pre<g ref="char:EOLhyphen"/>ſerved thee from the infection of learning, wit, ci<g ref="char:EOLhyphen"/>vility, or any real ſence of religion or ingenuity; furniſht thee with cruelty enough, diſſimulation in the moſt perfect form of plain ſimple honeſty, con<g ref="char:EOLhyphen"/>tinually inſpired thee not onely with counſel but courage, for many high attempts, ſo that there is nothing left in thee at laſt but what is meerly con<g ref="char:EOLhyphen"/>natural
+<pb n="5" facs="tcp:43985:3"/> to my ſelf and of my free gift. And yet that after all this, you ſhould deſert my wonted providence, and rely more upon your own judge<g ref="char:EOLhyphen"/>ment than my dictates was a provocation not ex<g ref="char:EOLhyphen"/>preſſible but by my eternal fury. I muſt tell thee, had <hi>Noll</hi> or <hi>Bradſhaw</hi> ever ſo much forgotten them<g ref="char:EOLhyphen"/>ſelves, or me their great Lord, I ſhould not have been wrought to ſuch lenity by any perſwaſions: but ſince thy penitence hath wrought ſo high upon thy ſpirit, I will reveal a ſecret of moſt high con<g ref="char:EOLhyphen"/>ſolation to thy ſelf. I have long ſince determined, upon thy faithful ſervice to me in this world, not onely to advance thy honours and fortunes here to the higheſt degree, but in my infernal Kingdome to preferre thee to the chief general-ſhip of my dread<g ref="char:EOLhyphen"/>ful Legions: and from this my grace and favour to thee no ordinary provocation ſhall divert me, therefore draw near and make an humble and pe<g ref="char:EOLhyphen"/>nitent confeſſion before me, in order to thy re-ad<g ref="char:EOLhyphen"/>miſſion into my favour.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Huſon.</speaker>
+               <p>I moſt humbly confeſſe,<note place="margin">Kneels before him.</note> to thy infer<g ref="char:EOLhyphen"/>nal Majeſty, thy bleſſed <hi>Jezabel;</hi> thy Saints <hi>Cain, Herod,</hi> and <hi>Judas, Cora, Dathan</hi> and <hi>Abi<g ref="char:EOLhyphen"/>ram, Nero, Julian, Machiavil,</hi> and <hi>Ravilliack, John of Leyden, Knipper Doling, Melchier, Hof<g ref="char:EOLhyphen"/>man,</hi> and <hi>Muncer, Jack Sraw, Jack Cade</hi> and <hi>Wat Tyler,</hi> thy devout Servants, <hi>Enoch ap Evan, Pym,</hi> and <hi>Hacket.</hi> Thy Great Officers of State and zea<g ref="char:EOLhyphen"/>lous aſſertors of thy Good old Cauſe (now with thee) <hi>Cromwel, Prideaux, Williams</hi> and <hi>Brad<g ref="char:EOLhyphen"/>ſhaw,</hi> with thy innumerable Army of Tyburn and Smithfield Martyrs, and to all thy company of
+<pb n="6" facs="tcp:43985:4"/> black Angels and infernal Spirits, &amp;c. That I have offended againſt thee my Ghoſtly Father, in word, thought and deed, by my faults, my faults, my great faults. Firſt, that when it was in my Power and thy Commands, I neglected utterly to deſtroy the Rump of the Long Parlia<g ref="char:EOLhyphen"/>ment, taking them for thy ſervants as well as my ſelf, and therefore not ſo ſtrictly hearkning to, and obeying thy commands as I ought in duty to have done.</p>
+            </sp>
+            <sp>
+               <speaker>Pluto.</speaker>
+               <p>
+                  <hi>I deny not but they were my Servants, did my works, and ſtill do, but this is no excuſe for your neglecting my poſitive commands, ſince my ſecret deſignes are not fully known, nor can be to my beſt ſervants on earth; but go on.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Huſon.</speaker>
+               <p>Secondly, that when thou hadſt put it into my heart, (upon the Apprentiſes football play) on Munday the 5. of <hi>Decemb.</hi> to take the opportunity to deſtroy men, women, and chil<g ref="char:EOLhyphen"/>dren, in the City of <hi>London,</hi> and make prize of their eſtates thereby to engage the Army to go on in thy ſervice under my command, I did not proſecute the deſign further than the death of a few innocent perſons, to the greater prejudice than promotion of thy ſervice.</p>
+            </sp>
+            <sp>
+               <speaker>Pluto.</speaker>
+               <p>
+                  <hi>Theſe are humbling faults with a wit<g ref="char:EOLhyphen"/>neſſe, and ſhould teach the avoyding of the like for future.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Huſon.</speaker>
+               <p>That when there appeared no other meanes for the upholding the intereſt of thy ſer<g ref="char:EOLhyphen"/>vants, but onely the firing of the City of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> with Granadoes, and ſo diſtreſſing thine
+<pb n="7" facs="tcp:43985:4"/> and our enemies; through diffidence and want of courage I waved that thy great deſign. The con<g ref="char:EOLhyphen"/>ſideration of which my moſt grievous offence, ſo increaſes my confuſion and ſorrow for this and other the like enormities, that expreſſions fail me, and I can go no further at this time, but humbly deſire pardon from you my Ghoſtly Fa<g ref="char:EOLhyphen"/>ther and great Protector and all your infernal and forementioned Saints and Servants, for theſe and all other the like my tranſgreſſions, with a hearty promiſe of double diligence in thy works of darkneſſe for time to come.</p>
+            </sp>
+            <sp>
+               <speaker>Pluto.</speaker>
+               <p>
+                  <hi>I am ſatisfied in thy confeſſion and up<g ref="char:EOLhyphen"/>on thy hearty repentance for theſe thy faults, and the renewing of thy obedience for the future, do abſolve thee by my own terrible name, and that black infernal lake in my Kingdome; therefore ariſe, and for thy penance let this thy confeſſion be forthwith publiſht to all my ſervants in the world, leſt they by the like incogitancy renew thy miſcarriages; but let my lenity in this ſmall pe<g ref="char:EOLhyphen"/>nance obliege you to an increaſe of your diligence in my ſervice for time to come: and for a further teſtimony of my paternall affection, in eſpecial to you upon the renewing of your obedience thus to me take ſome of my advice in general, and for par<g ref="char:EOLhyphen"/>ticular occaſions I and my ſpiritual ſervants will never fail in our aſſiſtance.</hi>
+               </p>
+               <p n="1">
+                  <hi>I. Be ſure never to attempt any great thing without the ſpecious pretence of Religion, and the Good old Cauſe.</hi>
+               </p>
+               <p n="2">
+                  <hi>II. Never condeſcend to any thing in favour
+<pb n="6" facs="tcp:43985:5"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="7" facs="tcp:43985:5"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="8" facs="tcp:43985:6"/> of the family of the</hi> Stuarts, <hi>but remain their in<g ref="char:EOLhyphen"/>veterate enemy.</hi>
+               </p>
+               <p n="3">
+                  <hi>III. To your utmoſt, obſtruct the ſettlement of any Government whatſoever in the Church.</hi>
+               </p>
+               <p n="4">
+                  <hi>IV. In all places ſhew your ſelf a moſt zealous aſſertor of liberty of conſcience.</hi>
+               </p>
+               <p n="5">
+                  <hi>V. Incline to all factions whatſoever, but be ſure never cleave to any particular.</hi>
+               </p>
+               <p>
+                  <hi>If thou ſhalt be conſtant and faithful in obſer<g ref="char:EOLhyphen"/>ving theſe my general rules, and all my particular dictates, thou ſhalt find by an uncontrol'd proſpe<g ref="char:EOLhyphen"/>rity, that thou art not the leaſt in my favour, and at laſt a far greater preferment in my fiery region, then this world affords.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Huſ.</speaker>
+               <p>If ever I fail in performing (to my ut<g ref="char:EOLhyphen"/>moſt) your commands, account me as I am un<g ref="char:EOLhyphen"/>worthy the honour of your favorite.</p>
+            </sp>
+            <sp>
+               <speaker>Pluto.</speaker>
+               <p>
+                  <hi>The greateſt happineſſe I give my beſt Servants, ſhall attend thy moſt proſperous at<g ref="char:EOLhyphen"/>tempts, dear ſonne,</hi>
+               </p>
+            </sp>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43985:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
